@@ -1,0 +1,15 @@
+
+
+
+    step 1.  search functions 
+    step 2.  create new main function
+    step 3.  copy test file to new temp file
+    step 3.  append new main function at the beginning of temp file
+    step 5.  link test services includes to file
+    step 6.  compile temp file
+
+
+
+    Syntax: gcct <tests file> <opt: name of function>
+
+
